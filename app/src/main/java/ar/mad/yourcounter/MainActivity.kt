@@ -1,6 +1,7 @@
 package ar.mad.yourcounter
 
 import android.os.Bundle
+import android.window.SplashScreen
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.runtime.Composable
